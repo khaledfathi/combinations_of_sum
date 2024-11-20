@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find Combinations</string>
+    <string name="number">رقم</string>
+    <string name="input_counter">"عدد المدخلات: "</string>
+    <string name="target">الهدف</string>
+    <string name="combinations_counter">"المجموعات: "</string>
+    <string name="combinations_of_sum">مجموعات الجمع</string>
+</resources>

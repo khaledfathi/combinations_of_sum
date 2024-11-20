@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">find_combination</string>
+    <string name="app_name">Find Combinations</string>
+    <string name="number">Number</string>
+    <string name="input_counter">"Input Count : "</string>
+    <string name="target">Target</string>
+    <string name="combinations_counter">"Combinations : "</string>
+    <string name="combinations_of_sum">Combinations of sum</string>
 </resources>
